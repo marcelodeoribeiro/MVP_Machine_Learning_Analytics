@@ -9,6 +9,6 @@ Ele está dividido em duas partes:
 
 Os dados utilizados em ambas as partes estão compartilhados como públicos na minha conta do Google Drive.
 
-Os modelos gerados estão na pasta "modelo", que contém um arquivo com a descrição (modelos.md) breve sobre eles.
+Os modelos gerados estão na pasta "modelo", que contém um arquivo (modelos.md) com a descrição breve sobre eles.
 
 Informações precisas sobre os dois trabalhos podem ser obtidas nos mesmos.
